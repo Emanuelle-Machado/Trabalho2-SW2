@@ -1,5 +1,18 @@
-# Trabalho2-SW2
-trabalho para a matéria de sítios web 2 (feito em 2022/2)
+# Treino de estilização com css
+
+Utilizando uma imagem de site como base, foi criado este.
+
+## Autores
+
+- [@Emanuelle-Machado](https://www.github.com/Emanuelle-Machado)
+
 
 # Deployment on Vercel
+
 https://trabalho2-sw-2.vercel.app
+
+## Stack utilizada
+
+**Front-end:** Html, Css
+
+**Back-end:** Javascript
