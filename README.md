@@ -16,3 +16,7 @@ https://trabalho2-sw-2.vercel.app
 **Front-end:** Html, Css
 
 **Back-end:** Javascript
+
+------------------------
+
+Trabalho 2 para a matéria de Sitios web 2.
