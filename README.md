@@ -17,6 +17,7 @@ https://trabalho2-sw-2.vercel.app
 
 **Back-end:** Javascript
 
-------------------------
+## Aprendizados
 
+Esse projeto foi minha primeira experiencia com Css na programação.
 Trabalho 2 para a matéria de Sitios web 2.
